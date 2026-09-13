@@ -14,4 +14,4 @@ I’m currently building **Folio**, a privacy-first desktop PDF reader that prov
 
 ## How to reach me
 
-[LinkedIn](linkedin.com/in/rayyanfs) · [Portfolio](rayyanfs.vercel.app) · [Email](mailto:frayyan@umass.edu)
+[LinkedIn](https://www.linkedin.com/in/rayyanfs/) · [Portfolio](https://rayyanfs.vercel.app) · [Email](mailto:frayyan@umass.edu)
